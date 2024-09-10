@@ -1,6 +1,6 @@
 # my-gh-comments
 
-Tiny Deno script to list comments by myself on a GitHub pull request. The script uses GitHub CLI `gh` to fetch the comments internally.
+Tiny Deno script to list comments by myself on GitHub pull requests. The script uses GitHub CLI `gh` to fetch the comments internally.
 
 ## Setup
 
